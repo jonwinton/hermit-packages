@@ -77,7 +77,8 @@ version "1.3.26" "1.3.27" "1.3.28" "1.3.31" "1.3.32" "1.3.34" "1.3.35" "1.3.36"
         "1.7.5" "1.7.6" "1.7.7-nightly-20240806.4" "1.7.8-nightly-20240807.2" "1.7.10"
         "1.7.11-nightly-20240812.2" "1.7.11-nightly-20240813.1" "1.7.11" "1.7.12-nightly-20240816.2" "1.7.12"
         "1.7.15-nightly-20240820.1" "1.7.17-nightly-20240820.3" "1.7.17-nightly-20240823.1"
-        "1.7.27-nightly-20240911.1" {
+        "1.7.27-nightly-20240911.1" "1.7.28" "1.7.29-nightly-20241001.1" "1.7.30-nightly-20241002.1"
+        "1.7.31-nightly-20241008.1" "1.7.35" "1.7.36" {
   auto-version {
     github-release = "swc-project/swc"
   }
@@ -723,4 +724,22 @@ sha256sums = {
   "https://github.com/swc-project/swc/releases/download/v1.7.27-nightly-20240911.1/swc-linux-x64-musl": "bb7bf023b52821d6584743d56cbf74d87a3f1bf3d113159f548dbfc1b4946ebd",
   "https://github.com/swc-project/swc/releases/download/v1.7.27-nightly-20240911.1/swc-darwin-arm64": "92ab0189b187f5a87c8647f0e776f71f13e59b5aa5baca2a13ff71e0769d234a",
   "https://github.com/swc-project/swc/releases/download/v1.7.27-nightly-20240911.1/swc-darwin-x64": "3d05fa7165c88a35b48126588cc1c9be3334af8a0048e2495f70e32c57e2525f",
+  "https://github.com/swc-project/swc/releases/download/v1.7.28/swc-darwin-x64": "e7cf9e048bc7f8504f25c748cf31a8bf38d947a8bbe062f8271e02b548bd5d53",
+  "https://github.com/swc-project/swc/releases/download/v1.7.28/swc-darwin-arm64": "60f53cd8d68bfcab93346129dcf343b2be1b59e09a7cc8fc0dc127a7fbcedf27",
+  "https://github.com/swc-project/swc/releases/download/v1.7.28/swc-linux-x64-musl": "5375fecdb534da19a33dd6ee55b13008e767ed9c496d1f92092e7fa572e01255",
+  "https://github.com/swc-project/swc/releases/download/v1.7.29-nightly-20241001.1/swc-linux-x64-musl": "78acd4e8ffde7588f46be037acc457beefc667a820a0babf1d46b3f8d6896035",
+  "https://github.com/swc-project/swc/releases/download/v1.7.29-nightly-20241001.1/swc-darwin-x64": "8034cc218b255a35035ca56c76827e35a21b666ef324196afa2d5abae7f0cfa8",
+  "https://github.com/swc-project/swc/releases/download/v1.7.29-nightly-20241001.1/swc-darwin-arm64": "36e91e9a2dd204ea5cb1dfaff679c406a8a1e6c8e9180b979301386ed6435b29",
+  "https://github.com/swc-project/swc/releases/download/v1.7.30-nightly-20241002.1/swc-darwin-x64": "dbbed714f6b9f95d8f069ee3cd2882ce78ac200f0e48bce287d462605051c3a7",
+  "https://github.com/swc-project/swc/releases/download/v1.7.30-nightly-20241002.1/swc-darwin-arm64": "5ea9a001924b26c7dc1f6a8885d825dbd2c23ffd3c6c95041d09ad77ac41e365",
+  "https://github.com/swc-project/swc/releases/download/v1.7.30-nightly-20241002.1/swc-linux-x64-musl": "d2771e5bc1f5c0c89f2f8ae7f5792583b65573ff29c6fdaa3dbabf8c8778baa2",
+  "https://github.com/swc-project/swc/releases/download/v1.7.31-nightly-20241008.1/swc-linux-x64-musl": "aa2b7b30089e0a6c1fce390273807269d2188c7678cd147db4c518b3bdef14c5",
+  "https://github.com/swc-project/swc/releases/download/v1.7.31-nightly-20241008.1/swc-darwin-x64": "79127e9b0f6732dafe9e399316e6f6f28fbe41572c584e015370e9cb2f885b7e",
+  "https://github.com/swc-project/swc/releases/download/v1.7.31-nightly-20241008.1/swc-darwin-arm64": "34fb24717127a1e59b422ebfd6e4195eb3ce38d1254db861539355b43728eeec",
+  "https://github.com/swc-project/swc/releases/download/v1.7.35/swc-linux-x64-musl": "6dc887ff5fc63fc34e60f5dbb2d80024a2a63290482fc8f0d24d2ebe57bc6643",
+  "https://github.com/swc-project/swc/releases/download/v1.7.35/swc-darwin-x64": "442fb8b76676e0fbbc19a2d72cf33629b55f58f6856291861c0f4f296a9823de",
+  "https://github.com/swc-project/swc/releases/download/v1.7.35/swc-darwin-arm64": "45f4ecb6e89368f5db321959874383577e313a5b89f51e7ddd5524377e5986b5",
+  "https://github.com/swc-project/swc/releases/download/v1.7.36/swc-linux-x64-musl": "b1b2dbee2e5503f865f7a8b76cff3dcf5081b69149c4fe9c668dbca47d7eddc1",
+  "https://github.com/swc-project/swc/releases/download/v1.7.36/swc-darwin-arm64": "b0bde20db903c072bd7cb1c91edd21f6a44f8874e12995a317727c6e40bd5fda",
+  "https://github.com/swc-project/swc/releases/download/v1.7.36/swc-darwin-x64": "8f414514c72f7dd05fd9559b3ae06711989124029dc31b125a6a0a9fec98d685",
 }

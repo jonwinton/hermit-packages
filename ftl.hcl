@@ -32,7 +32,8 @@ version "0.39.0" "0.41.1" "0.42.0" "0.43.5" "0.46.1" "0.47.0" "0.53.0" "0.53.3"
         "0.318.0" "0.319.1" "0.320.0" "0.322.2" "0.325.0" "0.327.2" "0.328.1" "0.330.0"
         "0.334.0" "0.335.3" "0.341.0" "0.342.0" "0.345.2" "0.349.1" "0.354.1" "0.355.0"
         "0.357.0" "0.359.1" "0.360.0" "0.361.0" "0.361.4" "0.361.5" "0.362.1" "0.364.1"
-        "0.366.0" "0.367.0" "0.368.1" {
+        "0.366.0" "0.367.0" "0.368.1" "0.369.0" "0.371.0" "0.372.3" "0.373.1" "0.375.0"
+        "0.376.1" "0.377.3" "0.378.2" "0.382.0" "0.383.1" {
   auto-version {
     github-release = "TBD54566975/ftl"
   }
@@ -735,4 +736,34 @@ sha256sums = {
   "https://github.com/TBD54566975/ftl/releases/download/v0.368.1/ftl-0.368.1.darwin-arm64.tar.gz": "7e8754a12841f74465be31a073c65dba258b015dd35886ef06220f376c077788",
   "https://github.com/TBD54566975/ftl/releases/download/v0.368.1/ftl-0.368.1.linux-amd64.tar.gz": "3b26f89d9bb2496f1316337baceb6381728acdb81510201bc8ab23bd8b2484c6",
   "https://github.com/TBD54566975/ftl/releases/download/v0.368.1/ftl-0.368.1.darwin-amd64.tar.gz": "f0f73fd151522f8fb564b399a85843aa12ef54e85de86558d52e2f94728ac473",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.369.0/ftl-0.369.0.darwin-arm64.tar.gz": "956b45f7c84429f12fb675b3b720bca8ea82149ab8ef5c612b2a7a36a200bc5b",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.369.0/ftl-0.369.0.linux-amd64.tar.gz": "732c7c708e77265bbf07eaf4562206a581b96518c433965f69b63051bd230f56",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.369.0/ftl-0.369.0.darwin-amd64.tar.gz": "bb067230a5eaf1375d4d30b624dde164af2b4c26d358ee2634a2499f9a5b5a81",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.371.0/ftl-0.371.0.darwin-amd64.tar.gz": "789ea35382dbd56faa3b1dc00c0aa21fb2aef641b7184d7100c644853c4034fb",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.371.0/ftl-0.371.0.linux-amd64.tar.gz": "e451e864d4004d6bb3659d7ce72c38a66df41eed2c24e613b9868c862211e7dd",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.371.0/ftl-0.371.0.darwin-arm64.tar.gz": "6503a5be87c3863b786470b8265c8e863f4fa5712e9f3bd5fea81d7580d6dcc0",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.372.3/ftl-0.372.3.darwin-amd64.tar.gz": "3022c24d75859000b0efab85f3c636662a87ebebedabe2a96c6a22d53c8a2dea",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.372.3/ftl-0.372.3.linux-amd64.tar.gz": "ef1371146bb770324bb610241c400867f6850aa17c3d13e5c2641ec2e9164580",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.372.3/ftl-0.372.3.darwin-arm64.tar.gz": "51689333fb47c47b5b9b7f29c6e8292c4b80574b917c97ac577686ff4132d319",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.373.1/ftl-0.373.1.linux-amd64.tar.gz": "5c4237ec27bb6ce4b36dc9f73b5fa6f01bb830df433bf94eadf28a53b6763473",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.373.1/ftl-0.373.1.darwin-arm64.tar.gz": "e2d9d7668e957e744c3293c002c8afc1ec45d114993feeb697966fccc1c522f0",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.373.1/ftl-0.373.1.darwin-amd64.tar.gz": "7b88e7c05c087a131768df9904fde75379d7238f281d94bda4458d072f6d8c5d",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.375.0/ftl-0.375.0.linux-amd64.tar.gz": "e346bdc4fb25c7123d9bb2fc0de29e268b1f7be68a414004d4c9daceb211a5c8",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.375.0/ftl-0.375.0.darwin-arm64.tar.gz": "be37b17f136511437d2529de86da4671cf305bfb93a07f8e39b25c82cf6529fa",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.375.0/ftl-0.375.0.darwin-amd64.tar.gz": "61ece90bf45cbec86c927b68efd3521386704cea8d7aadacdd7bfce7a1241d75",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.376.1/ftl-0.376.1.darwin-arm64.tar.gz": "e240e6664a32a32758c4d1a3aeef3f9d10492f48ed2ab32af253d5c448d678e4",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.376.1/ftl-0.376.1.darwin-amd64.tar.gz": "6afe5e210da76aa1017f5183e3c68a345367c9951f1e9650092f0e955eeff77b",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.376.1/ftl-0.376.1.linux-amd64.tar.gz": "c0d64a95a040fbf8d65e60eb9d8da8be32d7a63e0bdefeda5db010fe388d9453",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.377.3/ftl-0.377.3.linux-amd64.tar.gz": "c76e8f97c2a5e671104123543458e2c455ab1ad59debad60434671a591a1d880",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.377.3/ftl-0.377.3.darwin-amd64.tar.gz": "918b6eb20c77e6bff34232100f97db0c85828f6caa4c0076688401bedf7ce2ca",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.377.3/ftl-0.377.3.darwin-arm64.tar.gz": "1d6ffddb1016561544e9561b338c07c16608538f78a4cc686dbed8a5c09417e6",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.378.2/ftl-0.378.2.darwin-arm64.tar.gz": "85eceb7872010834c9ad685fe91d8db30e71a3f472fe7c7a995b2e62d07d2fe1",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.378.2/ftl-0.378.2.darwin-amd64.tar.gz": "3c0b029adbfea7df782a2c6dfb2919699a14737c22ca97abf530adac3052eb63",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.378.2/ftl-0.378.2.linux-amd64.tar.gz": "3ece3d8089250f578ab5f5d0c8847a1cbcdee99cc6ed41cd502bdc57d754346c",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.382.0/ftl-0.382.0.darwin-amd64.tar.gz": "33c490be7961ab327aae5ced63694d88d26f23be56cfbb30599faf8b4d86994e",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.382.0/ftl-0.382.0.darwin-arm64.tar.gz": "ae1ed6f4233eddb033a3e650a91827f65b6fbae3ae72d4b2ae02afdf1b57296a",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.382.0/ftl-0.382.0.linux-amd64.tar.gz": "e0b999d266bfd7b1cb40af76043f8ef8a702a2330952f8d750a0388acab74115",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.383.1/ftl-0.383.1.darwin-arm64.tar.gz": "3fcde1d2698e01f78b9b2032fc24f98e4df102d041ac3cb719bef2b1ff89f2f1",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.383.1/ftl-0.383.1.linux-amd64.tar.gz": "09a551f6f6fc3917038fc31b66d47087b4dc4008a4359b3f206f2e1bbaa6ad78",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.383.1/ftl-0.383.1.darwin-amd64.tar.gz": "53d3b5d13cc83a80cb2052482f88b9b359b95348195244b19fa94b8f0abeb684",
 }

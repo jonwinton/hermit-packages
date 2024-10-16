@@ -43,7 +43,8 @@ version "2.0.2" "2.0.3" "2.0.4" "2.1.0" "2.2.0" "2.3.0" "2.3.1" "2.4.0" "2.4.1" 
         "2.21.1" "2.21.2" "1.76.0" "2.21.3" "2.21.4" "2.21.5" "2.22.2" "2.22.3" "2.23.0"
         "2.23.1" "2.23.2" "2.24.1" "2.25.0" "2.25.2" "2.25.3" "2.26.0" "2.27.0" "2.28.0"
         "2.28.5" "2.28.6" "2.29.1" "2.30.0" "2.30.1" "2.30.2" "2.30.4" "2.31.0" "2.31.1"
-        "2.31.2" "2.32.1" "2.32.2" "2.33.0" "2.33.1" "2.34.1" "2.35.0" "2.36.0" "2.36.1" {
+        "2.31.2" "2.32.1" "2.32.2" "2.33.0" "2.33.1" "2.34.1" "2.35.0" "2.36.0" "2.36.1"
+        "2.36.2" "2.36.3" "2.36.4" "2.36.5" "2.36.6" "2.37.0" {
   auto-version {
     github-release = "getsentry/sentry-cli"
   }
@@ -299,4 +300,22 @@ sha256sums = {
   "https://github.com/getsentry/sentry-cli/releases/download/2.36.1/sentry-cli-Linux-x86_64": "4c3ff70421eecf5c4dbc6d15256a9c7eb28d6804d3e1b6717edf3a1a8b7a05c3",
   "https://github.com/getsentry/sentry-cli/releases/download/2.36.1/sentry-cli-Darwin-x86_64": "06efaf6b2c617dbefdb787e0a92ec9a029ef0afbeb808f1865f97e4201d61488",
   "https://github.com/getsentry/sentry-cli/releases/download/2.36.1/sentry-cli-Darwin-arm64": "b840504663e5e4c9cbc0e71f9d43081cc85504cfd70c1db01e73b170c4467204",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.2/sentry-cli-Linux-x86_64": "f19511e24fda6c44b62da3fd8d5d7193eada4fa885626b275b930b3cd435435b",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.2/sentry-cli-Darwin-x86_64": "301b46354c428d523c8c87b9c5fac52eb14b3bb7bcde912c58d498e170f1b1e4",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.2/sentry-cli-Darwin-arm64": "decbca422a4801e390a034f79da236d3f3c658b7ff765a717e67173c0f7b40de",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.3/sentry-cli-Linux-x86_64": "f1cb3f3936230c20ae4ab20802614fa208063d6239f7d29e06abb0917a934118",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.3/sentry-cli-Darwin-x86_64": "48a999bd17d4888a6b41cf5062c9381907c6a8226d0f6c4b0b3dcd79247e1094",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.3/sentry-cli-Darwin-arm64": "82a1478f623e7f5c54300d2f13c560841048a020591279bdf7469ee3647545af",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.4/sentry-cli-Darwin-arm64": "6fa8b1d0e09f359566f5a5a3fe04ebd2cbb0d5da851be12b326594152d7d62af",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.4/sentry-cli-Linux-x86_64": "22ba24c7019fc7f2ffc72307fa6a0ff5981f4254184f1e99777abc81aa4f8dde",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.4/sentry-cli-Darwin-x86_64": "80ca3600fe02601f0f8e366dffab1bace9afa933f61e65763a1b92666ca7b522",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.5/sentry-cli-Darwin-arm64": "e8354f85bf8cb9f7f45bb691f01ca28280243e534d94cb4399f56200226e6baa",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.5/sentry-cli-Darwin-x86_64": "e07dbf5a74e3edee359d0a87b436f6bb004b3d85c111b255072926080bb4250a",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.5/sentry-cli-Linux-x86_64": "5696cb1eb0238190b86f18ac2036f89524bfdb2ecd12d1a11a488d2e93fb5024",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.6/sentry-cli-Darwin-x86_64": "d7797b3f1aa3d6053b232cb31915b74089237df0def288ef6fdee2351a17839d",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.6/sentry-cli-Linux-x86_64": "2ee44f63b820fc3f543ea362d83047738552457db7ffb49b4757d907f40daa96",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.36.6/sentry-cli-Darwin-arm64": "13befc6e6fcd3248605bf4f721f638a2f5a028a6427f17396d4c8ba3eb87116c",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.37.0/sentry-cli-Darwin-arm64": "a936b57285f9123727af96a62dd271f8c0f544f07a50286ffb498c1a5fd0a4c8",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.37.0/sentry-cli-Darwin-x86_64": "f8659af646de4975c2b21254ecda589dc2f1b291acd696d9a475095044d9336a",
+  "https://github.com/getsentry/sentry-cli/releases/download/2.37.0/sentry-cli-Linux-x86_64": "91453d7eec5a8d02f5e2cc216e811e147f5019b8877bfc3fb8f9dcc1ea80f086",
 }
